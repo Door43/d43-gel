@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gel:home|Door43 (gel)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gel|d43-gel repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gel/archive/master.zip|d43-gel.zip]]
+
+**Recent Changes**
+{{changes>ns = gel}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gel|Ethnologue data]]
+
